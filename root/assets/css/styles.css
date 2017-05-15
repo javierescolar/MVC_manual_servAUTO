@@ -1,0 +1,10 @@
+nav li:hover{
+	background: #b9b9b9;
+}
+
+.scroll-table {
+    height: 50em;
+    overflow: scroll;
+    border:solid #b9b9b9 0.1em;
+    padding:1em 0em;
+}

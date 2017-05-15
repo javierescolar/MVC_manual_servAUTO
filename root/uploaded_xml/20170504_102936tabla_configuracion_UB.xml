@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2015-06-05T18:17:20Z</Created>
+  <LastSaved>2017-05-04T08:22:45Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12645</WindowHeight>
+  <WindowWidth>22260</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="6" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s62" ss:Width="50.25"/>
+   <Column ss:StyleID="s62" ss:Width="79.5"/>
+   <Column ss:StyleID="s62" ss:Width="52.5"/>
+   <Column ss:StyleID="s62" ss:Width="72.75"/>
+   <Row>
+    <Cell><Data ss:Type="String">MUR </Data></Cell>
+    <Cell><Data ss:Type="String">MURCIA</Data></Cell>
+    <Cell><Data ss:Type="String">1050477</Data></Cell>
+    <Cell><Data ss:Type="String">1126797</Data></Cell>
+    <Cell><Data ss:Type="String">NULL</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">TUESDAY  </Data></Cell>
+    <Cell><Data ss:Type="String">30</Data></Cell>
+    <Cell><Data ss:Type="String">RE</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAR </Data></Cell>
+    <Cell><Data ss:Type="String">ZARAGOZA Y HUESCA</Data></Cell>
+    <Cell><Data ss:Type="String">NULL</Data></Cell>
+    <Cell><Data ss:Type="String">NULL</Data></Cell>
+    <Cell><Data ss:Type="String">NULL</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">WEDNESDAY</Data></Cell>
+    <Cell><Data ss:Type="String">50</Data></Cell>
+    <Cell><Data ss:Type="String">RE</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PAL </Data></Cell>
+    <Cell><Data ss:Type="String">BALEARES</Data></Cell>
+    <Cell><Data ss:Type="String">1128072</Data></Cell>
+    <Cell><Data ss:Type="String">1128073</Data></Cell>
+    <Cell><Data ss:Type="String">NULL</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">TUESDAY  </Data></Cell>
+    <Cell><Data ss:Type="String">07</Data></Cell>
+    <Cell><Data ss:Type="String">RE</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ZAM </Data></Cell>
+    <Cell><Data ss:Type="String">ZAMORA</Data></Cell>
+    <Cell><Data ss:Type="String">1127156</Data></Cell>
+    <Cell><Data ss:Type="String">1127157</Data></Cell>
+    <Cell><Data ss:Type="String">NULL</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">THURSDAY </Data></Cell>
+    <Cell><Data ss:Type="String">49</Data></Cell>
+    <Cell><Data ss:Type="String">RE</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ALI </Data></Cell>
+    <Cell><Data ss:Type="String">ALICANTE</Data></Cell>
+    <Cell><Data ss:Type="String">1100007</Data></Cell>
+    <Cell><Data ss:Type="String">1099000</Data></Cell>
+    <Cell><Data ss:Type="String">NULL</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">WEDNESDAY</Data></Cell>
+    <Cell><Data ss:Type="String">03</Data></Cell>
+    <Cell><Data ss:Type="String">RE</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">LEO </Data></Cell>
+    <Cell><Data ss:Type="String">LEON</Data></Cell>
+    <Cell><Data ss:Type="String">1127156</Data></Cell>
+    <Cell><Data ss:Type="String">1127157</Data></Cell>
+    <Cell><Data ss:Type="String">NULL</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">THURSDAY </Data></Cell>
+    <Cell><Data ss:Type="String">24</Data></Cell>
+    <Cell><Data ss:Type="String">RE</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">1</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
